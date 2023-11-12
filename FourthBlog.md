@@ -1,5 +1,7 @@
 # Getting Started with ReactJS: A Beginner's Guide to JavaScript Basics
 
+
+
 If you're eager to dive into the world of ReactJS, a fantastic library for building user interfaces, it's essential to have a solid understanding of JavaScript beforehand. JavaScript is the language that powers React, and having a grasp of its fundamentals will make your journey into React much smoother.
 
 ## Why JavaScript?
@@ -24,6 +26,8 @@ Get acquainted with ES6 features like arrow functions, destructuring, and templa
 
 **6. Asynchronous JavaScript**
 Understand asynchronous operations using concepts like callbacks, promises, and async/await. React often deals with asynchronous events, such as fetching data from a server.
+
+![banner](https://img.devrant.com/devrant/rant/r_2252455_Uyoir.jpg)
 
 ## Where to Learn JavaScript?
 **1.Online Platforms**
