@@ -1,6 +1,8 @@
 # Navigating the ReactJS Jungle: A Beginner's Mindset
 
 ![Image by hackernoon](https://hackernoon.imgix.net/images/aMtiSULDw4Tkj5LGaCQak8Pcy4D2-i0038fs.jpeg)
+
+
 Embarking on the journey of learning ReactJS is akin to stepping into a lush and vibrant jungle. As a beginner, the vast ecosystem, terminologies, and the seemingly complex syntax might initially feel overwhelming. Fear not, fellow learner! In this blog post, we'll explore the mindset that can help you navigate the ReactJS jungle with confidence and enthusiasm.
 
 ReactJS is a powerful library, and like any new skill, it comes with a learning curve. Instead of viewing challenges as obstacles, see them as opportunities to grow. Embrace the process of understanding concepts like components, state, and props – each step forward is a victory in your learning journey.
@@ -20,6 +22,5 @@ The ReactJS documentation is your best friend. It's comprehensive, well-organize
 Approach learning ReactJS with a growth mindset. Understand that your current level of expertise is just a starting point. Embrace challenges, learn from mistakes, and persist in the face of difficulties. Your capacity to learn and grow as a developer is limitless.
 
 
-```
-As you venture into the ReactJS jungle, remember that every expert was once a beginner. Approach learning with an open mind, stay curious, and enjoy the process. With patience, practice, and a positive mindset, you'll not only tame the ReactJS jungle but thrive in it. Happy coding!
-```
+
+    As you venture into the ReactJS jungle, remember that every expert was once a beginner. Approach learning with an open mind, stay curious, and enjoy the process. With patience, practice, and a positive mindset, you'll not only tame the ReactJS jungle but thrive in it. Happy coding!
