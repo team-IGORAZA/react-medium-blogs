@@ -1,4 +1,4 @@
-# React 19: A Revolution in App Development
+# React 19: A Revolution in Front-end Development
 
 React 19, the latest iteration of the popular JavaScript library for building user interfaces, is set to revolutionize web application development. Packed with groundbreaking features, React 19 empowers developers to create faster, more efficient, and more robust applications. Let’s dive into the key innovations that make React 19 a game-changer.
 
